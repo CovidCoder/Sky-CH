@@ -67,3 +67,4 @@
 * Frets on Fire: [Site](https://www.fretsonfire.org/forums/viewforum.php?f=5)
   * Required to make an account
 * Chorus: [Site](https://chorus.fightthe.pw/)
+* Clone Hero All in One Spreadsheet: [Site](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/htmlview#)
